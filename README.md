@@ -10,3 +10,5 @@ Use that for activate:
 3. Print Hostname: "localhost"
 4. Submit "OK"
 5. Try activate license key again
+
+refer: https://gist.github.com/5hmlA
