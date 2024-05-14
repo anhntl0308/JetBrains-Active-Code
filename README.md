@@ -12,3 +12,5 @@ Use that for activate:
 5. Try activate license key again
 
 refer: https://gist.github.com/5hmlA
+
+just using it for local, that make you can download plugins
